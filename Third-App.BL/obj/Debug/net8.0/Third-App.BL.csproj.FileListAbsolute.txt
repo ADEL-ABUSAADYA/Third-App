@@ -1,0 +1,15 @@
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/bin/Debug/net8.0/Third-App.BL.deps.json
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/bin/Debug/net8.0/Third-App.BL.dll
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/bin/Debug/net8.0/Third-App.BL.pdb
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/bin/Debug/net8.0/Third-App.DAL.dll
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/bin/Debug/net8.0/Third-App.DAL.pdb
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/obj/Debug/net8.0/Third-App.BL.csproj.AssemblyReference.cache
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/obj/Debug/net8.0/Third-App.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/obj/Debug/net8.0/Third-App.BL.AssemblyInfoInputs.cache
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/obj/Debug/net8.0/Third-App.BL.AssemblyInfo.cs
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/obj/Debug/net8.0/Third-App.BL.csproj.CoreCompileInputs.cache
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/obj/Debug/net8.0/Third-Ap.428D91B9.Up2Date
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/obj/Debug/net8.0/Third-App.BL.dll
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/obj/Debug/net8.0/refint/Third-App.BL.dll
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/obj/Debug/net8.0/Third-App.BL.pdb
+/Users/adelabusaadya/Downloads/upskilling course/JSB/work/Third-App/Third-App.BL/obj/Debug/net8.0/ref/Third-App.BL.dll

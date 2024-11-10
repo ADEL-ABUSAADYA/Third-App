@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Third-App.PL.props" />
+</Project>
